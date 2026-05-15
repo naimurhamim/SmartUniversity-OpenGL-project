@@ -1,10 +1,10 @@
+# 🎓 Smart University — UFTB
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![GLUT](https://img.shields.io/badge/GLUT-FreeGLUT-orange?style=for-the-badge)
 ![Smart University](https://img.shields.io/badge/Smart%20University-IoT%20Campus-green?style=for-the-badge)
 ![Animation](https://img.shields.io/badge/2D-Animation-ff69b4?style=for-the-badge)
 
-# 🎓 Smart University — UFTB
 ### An OpenGL/GLUT Computer Graphics & Animation Project
 
 > **Course:** IRE 404 — Computer Graphics and Animation Sessional  
